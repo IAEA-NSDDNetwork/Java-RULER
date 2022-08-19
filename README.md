@@ -7,6 +7,9 @@ Please address any feedback to Jun Chen chenj@nscl.msu.edu
 
 ## Change History
 
+#### 2022-08
+-	Minor improvements
+
 #### 2022-04
 -	Following the discussions in the 2022 NSDD Sprint meeting, a result using the median value as the final value is also listed in the report file under the Monte-Carlo approach.  
 -	A document-record line for Java-RULER version will be automatically inserted after the history record lines in the output file.
