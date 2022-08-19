@@ -1,9 +1,9 @@
-# Java Ruler Test Phase
+# Java-RULER Test Phase
 Ruler with improved uncertainties. 
 
-Java Ruler is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
+Java-RULER is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
-Please address any feedback to Jun Chen chenj@nscl.msu.edu
+Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change History
 
