@@ -7,6 +7,9 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change History
 
+#### 2023-04
+Add calculations for B(E6) and B(M6)
+
 #### 2023-02
 -	Bug fix
 
