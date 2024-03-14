@@ -7,9 +7,12 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change History
 
+
+#### 2024-03
+Bug fixes and improvements
+
 #### 2023-05
-Bug fixes and improvements, e.g., improved extracting of B(XL) values in level comments for calculating T1/2 and MR using the T1/2 and MR calculator. To get this calculator, right click on a blank area in the main window. To use
-this calculator, copy and paste a complete data section (including gamma data) of the level to be calculated into the top text area in the calculator window, as well as the level record line (only) of the final level of the transition to be calculated. 
+Bug fixes and improvements, e.g., improved extracting of B(XL) values in level comments for calculating T1/2 and MR using the T1/2 and MR calculator. To get this calculator, right click on a blank area in the main window. To use this calculator, copy and paste a complete data section (including gamma data) of the level to be calculated into the top text area in the calculator window, as well as the level record line (only) of the final level of the transition to be calculated. 
 
 #### 2023-04
 Add calculations for B(E6) and B(M6)
