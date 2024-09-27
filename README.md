@@ -7,6 +7,8 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change History
 
+#### 2024-09
+Bug fixes and improvements
 
 #### 2024-02
 Bug fixes and improvements
