@@ -1,5 +1,5 @@
 # Java-RULER Test Phase
-Ruler with improved uncertainties. 
+The program recommended by USNDP and NSDD to calculate gamma-ray transition strengths in ENSDF file with proper propagations of large/asymmetric uncertainties including the Monte-Carlo approach for ENSDF evaluation.
 
 Java-RULER is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
