@@ -1,11 +1,14 @@
 # Java-RULER Test Phase
-The program recommended by USNDP and NSDD to calculate gamma-ray transition strengths in ENSDF file with proper propagations of large/asymmetric uncertainties including the Monte-Carlo approach for ENSDF evaluation.
+The program recommended by USNDP and NSDD to calculate gamma-ray transition strengths in ENSDF file with proper propagations of large/asymmetric uncertainties including the Monte-Carlo approach for ENSDF evaluation. Java-RULER uses the slave version (BrIccS) of BrIcc (2008KI07)(url: https://bricc.anu.edu.au/) for calculations of conversion coefficients on the fly when needed. 
 
 Java-RULER is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
 Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change History
+
+#### 2025-04
+Bug fixes and improvements
 
 #### 2025-02
 Bug fixes and improvements
