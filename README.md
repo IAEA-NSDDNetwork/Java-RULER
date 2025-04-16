@@ -8,7 +8,7 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 ## Change History
 
 #### 2025-04
-update BrIccS exectutables with new versions from T. Kibedi at ANU.
+update BrIccS executables with new versions from T. Kibedi at ANU.
 
 #### 2025-02
 Bug fixes and improvements
